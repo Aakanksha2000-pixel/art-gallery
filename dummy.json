@@ -3,545 +3,305 @@
     {
       "id": 1,
       "title": "BUDDHA",
-      "description": "An apple mobile which is nothing like apple",
-      "price": 549,
-      "discountPercentage": 12.96,
+      "description": "This hand-painted piece of art is created with great zeal and perfection. We believe in quality all artworks at artoholic are created by renowed artists with their expertise, We use high quality imported canvas and colors. Life of our artworks are more than 50+ years. Totally hand-painted by us with new techniques and formations.",
+      "price": 9000,
       "rating": 4.69,
       "stock": 94,
-      "brand": "Apple",
-      "category": "smartphones",
+      "category": "Modern Drawings",
       "thumbnail": "https://images.unsplash.com/photo-1553604313-0ab9f355d4d1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGJ1ZGRoYSUyMHBhaW50aW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
     },
     {
       "id": 2,
-      "title": "iPhone X",
-      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
-      "price": 899,
-      "discountPercentage": 17.94,
+      "title": "Modern BUDDHA",
+      "description": "This hand-painted piece of art is created with great zeal and perfection. We believe in quality all artworks at artoholic are created by renowed artists with their expertise, We use high quality imported canvas and colors. Life of our artworks are more than 50+ years. Totally hand-painted by us with new techniques and formations.",
+      "price": 8990,
       "rating": 4.44,
       "stock": 34,
-      "brand": "Apple",
-      "category": "smartphones",
+      "category": "Modern Drawings",
       "thumbnail": "https://images.unsplash.com/photo-1609745772921-f520289e9618?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YnVkZGhhJTIwcGFpbnRpbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
     },
     {
       "id": 3,
-      "title": "Samsung Universe 9",
-      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "title": "UNTITLED",
+      "description": "Tribal entertainment on specious occasions",
       "price": 1249,
-      "discountPercentage": 15.46,
       "rating": 4.09,
       "stock": 36,
-      "brand": "Samsung",
-      "category": "smartphones",
-      "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/3/1.jpg"
-      ]
+      "category": "Abstract paintings",
+      "thumbnail": "https://images.unsplash.com/photo-1605721911519-3dfeb3be25e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
     },
     {
       "id": 4,
-      "title": "OPPOF19",
-      "description": "OPPO F19 is officially announced on April 2021.",
-      "price": 280,
-      "discountPercentage": 17.91,
+      "title": "Modern Art",
+      "description": "Painting shows importance of water in life it's not only responsibility of women but man also to help the women",
+      "price": 2875,
       "rating": 4.3,
       "stock": 123,
-      "brand": "OPPO",
-      "category": "smartphones",
-      "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/4/1.jpg",
-        "https://i.dummyjson.com/data/products/4/2.jpg",
-        "https://i.dummyjson.com/data/products/4/3.jpg",
-        "https://i.dummyjson.com/data/products/4/4.jpg",
-        "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
-      ]
+      "category": "Abstract paintings",
+      "thumbnail": "//gallerist.in/cdn/shop/products/modern-art-54_180x.jpg?v=1664460260 180w, //gallerist.in/cdn/shop/products/modern-art-54_360x.jpg?v=1664460260 360w, //gallerist.in/cdn/shop/products/modern-art-54_540x.jpg?v=1664460260 540w, //gallerist.in/cdn/shop/products/modern-art-54_720x.jpg?v=1664460260 720w, //gallerist.in/cdn/shop/products/modern-art-54_900x.jpg?v=1664460260 900w, //gallerist.in/cdn/shop/products/modern-art-54_1080x.jpg?v=1664460260 1080w, //gallerist.in/cdn/shop/products/modern-art-54_1296x.jpg?v=1664460260 1296w, //gallerist.in/cdn/shop/products/modern-art-54_1512x.jpg?v=1664460260 1512w, //gallerist.in/cdn/shop/products/modern-art-54_1728x.jpg?v=1664460260 1728w, //gallerist.in/cdn/shop/products/modern-art-54_1950x.jpg?v=1664460260 1950w, //gallerist.in/cdn/shop/products/modern-art-54_2100x.jpg?v=1664460260 2100w, //gallerist.in/cdn/shop/products/modern-art-54_2260x.jpg?v=1664460260 2260w, //gallerist.in/cdn/shop/products/modern-art-54_2450x.jpg?v=1664460260 2450w, //gallerist.in/cdn/shop/products/modern-art-54_2700x.jpg?v=1664460260 2700w, //gallerist.in/cdn/shop/products/modern-art-54_3000x.jpg?v=1664460260 3000w, //gallerist.in/cdn/shop/products/modern-art-54_3350x.jpg?v=1664460260 3350w, //gallerist.in/cdn/shop/products/modern-art-54_3750x.jpg?v=1664460260 3750w, //gallerist.in/cdn/shop/products/modern-art-54_4100x.jpg?v=1664460260 4100w"
     },
     {
       "id": 5,
-      "title": "Huawei P30",
-      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
-      "price": 499,
-      "discountPercentage": 10.58,
+      "title": "THE COSMIC HAPPINESS_II",
+      "description": "The Witness- An expression of witnessing the Universe's chaos & turmoil and emergence of Cosmic energies out of it.",
+      "price": 22500,
       "rating": 4.09,
       "stock": 32,
-      "brand": "Huawei",
-      "category": "smartphones",
-      "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/5/1.jpg",
-        "https://i.dummyjson.com/data/products/5/2.jpg",
-        "https://i.dummyjson.com/data/products/5/3.jpg"
-      ]
+      "category": "Abstract paintings",
+      "thumbnail": "https://images.unsplash.com/photo-1618331835717-801e976710b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cGFpbnRpbmdzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
     },
     {
       "id": 6,
-      "title": "MacBook Pro",
-      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+      "title": "THE PLEASURE ZONE",
+      "description": "An abstract representation depicting The Pleasure Zone",
       "price": 1749,
-      "discountPercentage": 11.02,
       "rating": 4.57,
       "stock": 83,
-      "brand": "Apple",
-      "category": "laptops",
-      "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
-      "images": [
-        "https://i.dummyjson.com/data/products/6/1.png",
-        "https://i.dummyjson.com/data/products/6/2.jpg",
-        "https://i.dummyjson.com/data/products/6/3.png",
-        "https://i.dummyjson.com/data/products/6/4.jpg"
-      ]
+      "category": "Abstract paintings",
+      "thumbnail": "https://images.unsplash.com/photo-1549289524-06cf8837ace5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cGFpbnRpbmdzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
     },
     {
       "id": 7,
-      "title": "Samsung Galaxy Book",
-      "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+      "title": "Abstract Wall",
+      "description": "Abstract wall done with tissue paper",
       "price": 1499,
-      "discountPercentage": 4.15,
       "rating": 4.25,
       "stock": 50,
-      "brand": "Samsung",
-      "category": "laptops",
-      "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/7/1.jpg",
-        "https://i.dummyjson.com/data/products/7/2.jpg",
-        "https://i.dummyjson.com/data/products/7/3.jpg",
-        "https://i.dummyjson.com/data/products/7/thumbnail.jpg"
-      ]
+      "category": "Abstract paintings",
+      "thumbnail": "https://images.unsplash.com/photo-1556005693-00fff02f134c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHBhaW50aW5nc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
     },
     {
       "id": 8,
-      "title": "Microsoft Surface Laptop 4",
-      "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
-      "price": 1499,
-      "discountPercentage": 10.23,
+      "title": "Abstract Ganesha",
+      "description": "Lord Ganesha Abstract drawing.",
+      "price": 5000,
       "rating": 4.43,
       "stock": 68,
-      "brand": "Microsoft Surface",
-      "category": "laptops",
-      "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/8/1.jpg",
-        "https://i.dummyjson.com/data/products/8/2.jpg",
-        "https://i.dummyjson.com/data/products/8/3.jpg",
-        "https://i.dummyjson.com/data/products/8/4.jpg",
-        "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
-      ]
+      "category": "Abstract paintings",
+      "thumbnail": "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHBhaW50aW5nc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
     },
     {
       "id": 9,
-      "title": "Infinix INBOOK",
-      "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
-      "price": 1099,
-      "discountPercentage": 11.83,
+      "title": "The Winner",
+      "description": "Smile and tears choice is yours...",
+      "price": 25000,
       "rating": 4.54,
       "stock": 96,
-      "brand": "Infinix",
-      "category": "laptops",
-      "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/9/1.jpg",
-        "https://i.dummyjson.com/data/products/9/2.png",
-        "https://i.dummyjson.com/data/products/9/3.png",
-        "https://i.dummyjson.com/data/products/9/4.jpg",
-        "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
-      ]
+      "category": "Abstract paintings",
+      "thumbnail": "https://images.unsplash.com/photo-1535554773938-5c4b52cf8d98?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHBhaW50aW5nc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
     },
     {
       "id": 10,
-      "title": "HP Pavilion 15-DK1056WM",
-      "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
-      "price": 1099,
-      "discountPercentage": 6.18,
+      "title": "Connection",
+      "description": "An abstract fluid Acrylic art work suitable for all the kinds of spaces.",
+      "price": 5625.0,
       "rating": 4.43,
       "stock": 89,
-      "brand": "HP Pavilion",
-      "category": "laptops",
-      "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
-      "images": [
-        "https://i.dummyjson.com/data/products/10/1.jpg",
-        "https://i.dummyjson.com/data/products/10/2.jpg",
-        "https://i.dummyjson.com/data/products/10/3.jpg",
-        "https://i.dummyjson.com/data/products/10/thumbnail.jpeg"
-      ]
+      "category": "Abstract paintings",
+      "thumbnail": "https://images.unsplash.com/photo-1515405295579-ba7b45403062?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHBhaW50aW5nc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
     },
     {
       "id": 11,
-      "title": "perfume Oil",
-      "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
-      "price": 13,
-      "discountPercentage": 8.4,
+      "title": "THE WITNESS",
+      "description": "The Witness- An expression of witnessing the Universe's chaos & turmoil and emergence of Cosmic energies out of it.",
+      "price": 20000,
       "rating": 4.26,
       "stock": 65,
-      "brand": "Impression of Acqua Di Gio",
-      "category": "fragrances",
-      "thumbnail": "https://i.dummyjson.com/data/products/11/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/11/1.jpg",
-        "https://i.dummyjson.com/data/products/11/2.jpg",
-        "https://i.dummyjson.com/data/products/11/3.jpg",
-        "https://i.dummyjson.com/data/products/11/thumbnail.jpg"
-      ]
+      "category": "Abstract paintings",
+      "thumbnail": "https://cdn.pixabay.com/photo/2017/10/31/07/49/horses-2904536_640.jpg"
     },
     {
       "id": 12,
-      "title": "Brown Perfume",
-      "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
-      "price": 40,
-      "discountPercentage": 15.66,
+      "title": "GOLDEN ABSTRACT",
+      "description": "Golden trees on a silver base.",
+      "price": 5937.5,
       "rating": 4,
       "stock": 52,
-      "brand": "Royal_Mirage",
-      "category": "fragrances",
-      "thumbnail": "https://i.dummyjson.com/data/products/12/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/12/1.jpg",
-        "https://i.dummyjson.com/data/products/12/2.jpg",
-        "https://i.dummyjson.com/data/products/12/3.png",
-        "https://i.dummyjson.com/data/products/12/4.jpg",
-        "https://i.dummyjson.com/data/products/12/thumbnail.jpg"
-      ]
+      "category": "Abstract paintings",
+      "thumbnail": "//gallerist.in/cdn/shop/products/golden-abstract-1_180x.jpg?v=1664391799 180w, //gallerist.in/cdn/shop/products/golden-abstract-1_360x.jpg?v=1664391799 360w, //gallerist.in/cdn/shop/products/golden-abstract-1_540x.jpg?v=1664391799 540w, //gallerist.in/cdn/shop/products/golden-abstract-1_720x.jpg?v=1664391799 720w, //gallerist.in/cdn/shop/products/golden-abstract-1_900x.jpg?v=1664391799 900w, //gallerist.in/cdn/shop/products/golden-abstract-1_1080x.jpg?v=1664391799 1080w, //gallerist.in/cdn/shop/products/golden-abstract-1_1296x.jpg?v=1664391799 1296w, //gallerist.in/cdn/shop/products/golden-abstract-1_1512x.jpg?v=1664391799 1512w, //gallerist.in/cdn/shop/products/golden-abstract-1_1728x.jpg?v=1664391799 1728w, //gallerist.in/cdn/shop/products/golden-abstract-1_1950x.jpg?v=1664391799 1950w, //gallerist.in/cdn/shop/products/golden-abstract-1_2100x.jpg?v=1664391799 2100w, //gallerist.in/cdn/shop/products/golden-abstract-1_2260x.jpg?v=1664391799 2260w, //gallerist.in/cdn/shop/products/golden-abstract-1_2450x.jpg?v=1664391799 2450w, //gallerist.in/cdn/shop/products/golden-abstract-1_2700x.jpg?v=1664391799 2700w, //gallerist.in/cdn/shop/products/golden-abstract-1_3000x.jpg?v=1664391799 3000w, //gallerist.in/cdn/shop/products/golden-abstract-1_3350x.jpg?v=1664391799 3350w, //gallerist.in/cdn/shop/products/golden-abstract-1_3750x.jpg?v=1664391799 3750w, //gallerist.in/cdn/shop/products/golden-abstract-1_4100x.jpg?v=1664391799 4100w"
     },
     {
       "id": 13,
-      "title": "Fog Scent Xpressio Perfume",
-      "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
-      "price": 13,
-      "discountPercentage": 8.14,
+      "title": "THE BLUE GIRL",
+      "description": "Pop art (Vector art) portrait to brighten-up any dull space",
+      "price": 3125,
       "rating": 4.59,
       "stock": 61,
-      "brand": "Fog Scent Xpressio",
-      "category": "fragrances",
-      "thumbnail": "https://i.dummyjson.com/data/products/13/thumbnail.webp",
-      "images": [
-        "https://i.dummyjson.com/data/products/13/1.jpg",
-        "https://i.dummyjson.com/data/products/13/2.png",
-        "https://i.dummyjson.com/data/products/13/3.jpg",
-        "https://i.dummyjson.com/data/products/13/4.jpg",
-        "https://i.dummyjson.com/data/products/13/thumbnail.webp"
-      ]
+      "category": "Abstract paintings",
+      "thumbnail": "//gallerist.in/cdn/shop/products/the-blue-girl_180x.jpg?v=1664397495 180w, //gallerist.in/cdn/shop/products/the-blue-girl_360x.jpg?v=1664397495 360w, //gallerist.in/cdn/shop/products/the-blue-girl_540x.jpg?v=1664397495 540w, //gallerist.in/cdn/shop/products/the-blue-girl_720x.jpg?v=1664397495 720w, //gallerist.in/cdn/shop/products/the-blue-girl_900x.jpg?v=1664397495 900w, //gallerist.in/cdn/shop/products/the-blue-girl_1080x.jpg?v=1664397495 1080w, //gallerist.in/cdn/shop/products/the-blue-girl_1296x.jpg?v=1664397495 1296w, //gallerist.in/cdn/shop/products/the-blue-girl_1512x.jpg?v=1664397495 1512w, //gallerist.in/cdn/shop/products/the-blue-girl_1728x.jpg?v=1664397495 1728w, //gallerist.in/cdn/shop/products/the-blue-girl_1950x.jpg?v=1664397495 1950w, //gallerist.in/cdn/shop/products/the-blue-girl_2100x.jpg?v=1664397495 2100w, //gallerist.in/cdn/shop/products/the-blue-girl_2260x.jpg?v=1664397495 2260w, //gallerist.in/cdn/shop/products/the-blue-girl_2450x.jpg?v=1664397495 2450w, //gallerist.in/cdn/shop/products/the-blue-girl_2700x.jpg?v=1664397495 2700w, //gallerist.in/cdn/shop/products/the-blue-girl_3000x.jpg?v=1664397495 3000w, //gallerist.in/cdn/shop/products/the-blue-girl_3350x.jpg?v=1664397495 3350w, //gallerist.in/cdn/shop/products/the-blue-girl_3750x.jpg?v=1664397495 3750w, //gallerist.in/cdn/shop/products/the-blue-girl_4100x.jpg?v=1664397495 4100w"
     },
     {
       "id": 14,
-      "title": "Non-Alcoholic Concentrated Perfume Oil",
-      "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
-      "price": 120,
-      "discountPercentage": 15.6,
+      "title": "PAUDHA",
+      "description": "A floral leaf abstract",
+      "price": 120000,
       "rating": 4.21,
       "stock": 114,
-      "brand": "Al Munakh",
-      "category": "fragrances",
-      "thumbnail": "https://i.dummyjson.com/data/products/14/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/14/1.jpg",
-        "https://i.dummyjson.com/data/products/14/2.jpg",
-        "https://i.dummyjson.com/data/products/14/3.jpg",
-        "https://i.dummyjson.com/data/products/14/thumbnail.jpg"
-      ]
+      "category": "Abstract paintings",
+      "thumbnail": "//gallerist.in/cdn/shop/products/paudha_180x.jpg?v=1664391804 180w, //gallerist.in/cdn/shop/products/paudha_360x.jpg?v=1664391804 360w, //gallerist.in/cdn/shop/products/paudha_540x.jpg?v=1664391804 540w, //gallerist.in/cdn/shop/products/paudha_720x.jpg?v=1664391804 720w, //gallerist.in/cdn/shop/products/paudha_900x.jpg?v=1664391804 900w, //gallerist.in/cdn/shop/products/paudha_1080x.jpg?v=1664391804 1080w, //gallerist.in/cdn/shop/products/paudha_1296x.jpg?v=1664391804 1296w, //gallerist.in/cdn/shop/products/paudha_1512x.jpg?v=1664391804 1512w, //gallerist.in/cdn/shop/products/paudha_1728x.jpg?v=1664391804 1728w, //gallerist.in/cdn/shop/products/paudha_1950x.jpg?v=1664391804 1950w, //gallerist.in/cdn/shop/products/paudha_2100x.jpg?v=1664391804 2100w, //gallerist.in/cdn/shop/products/paudha_2260x.jpg?v=1664391804 2260w, //gallerist.in/cdn/shop/products/paudha_2450x.jpg?v=1664391804 2450w, //gallerist.in/cdn/shop/products/paudha_2700x.jpg?v=1664391804 2700w, //gallerist.in/cdn/shop/products/paudha_3000x.jpg?v=1664391804 3000w, //gallerist.in/cdn/shop/products/paudha_3350x.jpg?v=1664391804 3350w, //gallerist.in/cdn/shop/products/paudha_3750x.jpg?v=1664391804 3750w, //gallerist.in/cdn/shop/products/paudha_4100x.jpg?v=1664391804 4100w"
     },
     {
       "id": 15,
-      "title": "Eau De Perfume Spray",
-      "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
-      "price": 30,
-      "discountPercentage": 10.99,
+      "title": "Pop Of Golden",
+      "description": "This painting is the expression of ideas and emotions, to help create an aesthetic art piece.",
+      "price": 6250,
       "rating": 4.7,
       "stock": 105,
-      "brand": "Lord - Al-Rehab",
-      "category": "fragrances",
-      "thumbnail": "https://i.dummyjson.com/data/products/15/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/15/1.jpg",
-        "https://i.dummyjson.com/data/products/15/2.jpg",
-        "https://i.dummyjson.com/data/products/15/3.jpg",
-        "https://i.dummyjson.com/data/products/15/4.jpg",
-        "https://i.dummyjson.com/data/products/15/thumbnail.jpg"
-      ]
+      "category": "Abstract paintings",
+      "thumbnail": "//gallerist.in/cdn/shop/products/pop-of-golden_180x.jpg?v=1664396307 180w, //gallerist.in/cdn/shop/products/pop-of-golden_360x.jpg?v=1664396307 360w, //gallerist.in/cdn/shop/products/pop-of-golden_540x.jpg?v=1664396307 540w, //gallerist.in/cdn/shop/products/pop-of-golden_720x.jpg?v=1664396307 720w, //gallerist.in/cdn/shop/products/pop-of-golden_900x.jpg?v=1664396307 900w, //gallerist.in/cdn/shop/products/pop-of-golden_1080x.jpg?v=1664396307 1080w, //gallerist.in/cdn/shop/products/pop-of-golden_1296x.jpg?v=1664396307 1296w, //gallerist.in/cdn/shop/products/pop-of-golden_1512x.jpg?v=1664396307 1512w, //gallerist.in/cdn/shop/products/pop-of-golden_1728x.jpg?v=1664396307 1728w, //gallerist.in/cdn/shop/products/pop-of-golden_1950x.jpg?v=1664396307 1950w, //gallerist.in/cdn/shop/products/pop-of-golden_2100x.jpg?v=1664396307 2100w, //gallerist.in/cdn/shop/products/pop-of-golden_2260x.jpg?v=1664396307 2260w, //gallerist.in/cdn/shop/products/pop-of-golden_2450x.jpg?v=1664396307 2450w, //gallerist.in/cdn/shop/products/pop-of-golden_2700x.jpg?v=1664396307 2700w, //gallerist.in/cdn/shop/products/pop-of-golden_3000x.jpg?v=1664396307 3000w, //gallerist.in/cdn/shop/products/pop-of-golden_3350x.jpg?v=1664396307 3350w, //gallerist.in/cdn/shop/products/pop-of-golden_3750x.jpg?v=1664396307 3750w, //gallerist.in/cdn/shop/products/pop-of-golden_4100x.jpg?v=1664396307 4100w"
     },
     {
       "id": 16,
-      "title": "Hyaluronic Acid Serum",
-      "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
-      "price": 19,
-      "discountPercentage": 13.31,
+      "title": "ABSTRACT",
+      "description": "An abstract reflecting colours with florel look too. An unframed canvas.",
+      "price": 12500,
       "rating": 4.83,
       "stock": 110,
-      "brand": "L'Oreal Paris",
-      "category": "skincare",
-      "thumbnail": "https://i.dummyjson.com/data/products/16/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/16/1.png",
-        "https://i.dummyjson.com/data/products/16/2.webp",
-        "https://i.dummyjson.com/data/products/16/3.jpg",
-        "https://i.dummyjson.com/data/products/16/4.jpg",
-        "https://i.dummyjson.com/data/products/16/thumbnail.jpg"
-      ]
+      "category": "Abstract paintings",
+      "thumbnail": "//gallerist.in/cdn/shop/products/abstract10_180x.jpg?v=1664391805 180w, //gallerist.in/cdn/shop/products/abstract10_360x.jpg?v=1664391805 360w, //gallerist.in/cdn/shop/products/abstract10_540x.jpg?v=1664391805 540w, //gallerist.in/cdn/shop/products/abstract10_720x.jpg?v=1664391805 720w, //gallerist.in/cdn/shop/products/abstract10_900x.jpg?v=1664391805 900w, //gallerist.in/cdn/shop/products/abstract10_1080x.jpg?v=1664391805 1080w, //gallerist.in/cdn/shop/products/abstract10_1296x.jpg?v=1664391805 1296w, //gallerist.in/cdn/shop/products/abstract10_1512x.jpg?v=1664391805 1512w, //gallerist.in/cdn/shop/products/abstract10_1728x.jpg?v=1664391805 1728w, //gallerist.in/cdn/shop/products/abstract10_1950x.jpg?v=1664391805 1950w, //gallerist.in/cdn/shop/products/abstract10_2100x.jpg?v=1664391805 2100w, //gallerist.in/cdn/shop/products/abstract10_2260x.jpg?v=1664391805 2260w, //gallerist.in/cdn/shop/products/abstract10_2450x.jpg?v=1664391805 2450w, //gallerist.in/cdn/shop/products/abstract10_2700x.jpg?v=1664391805 2700w, //gallerist.in/cdn/shop/products/abstract10_3000x.jpg?v=1664391805 3000w, //gallerist.in/cdn/shop/products/abstract10_3350x.jpg?v=1664391805 3350w, //gallerist.in/cdn/shop/products/abstract10_3750x.jpg?v=1664391805 3750w, //gallerist.in/cdn/shop/products/abstract10_4100x.jpg?v=1664391805 4100w"
     },
     {
       "id": 17,
-      "title": "Tree Oil 30ml",
-      "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,",
-      "price": 12,
-      "discountPercentage": 4.09,
+      "title": "Krishna And Arjuna",
+      "description": "Krishna and Arjuana in the battle field.",
+      "price": 15000,
       "rating": 4.52,
       "stock": 78,
-      "brand": "Hemani Tea",
-      "category": "skincare",
-      "thumbnail": "https://i.dummyjson.com/data/products/17/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/17/1.jpg",
-        "https://i.dummyjson.com/data/products/17/2.jpg",
-        "https://i.dummyjson.com/data/products/17/3.jpg",
-        "https://i.dummyjson.com/data/products/17/thumbnail.jpg"
-      ]
+      "category": "Abstract paintings",
+      "thumbnail": "//gallerist.in/cdn/shop/products/krishna-and-arjuna_180x.jpg?v=1664397768 180w, //gallerist.in/cdn/shop/products/krishna-and-arjuna_360x.jpg?v=1664397768 360w, //gallerist.in/cdn/shop/products/krishna-and-arjuna_540x.jpg?v=1664397768 540w, //gallerist.in/cdn/shop/products/krishna-and-arjuna_720x.jpg?v=1664397768 720w, //gallerist.in/cdn/shop/products/krishna-and-arjuna_900x.jpg?v=1664397768 900w, //gallerist.in/cdn/shop/products/krishna-and-arjuna_1080x.jpg?v=1664397768 1080w, //gallerist.in/cdn/shop/products/krishna-and-arjuna_1296x.jpg?v=1664397768 1296w, //gallerist.in/cdn/shop/products/krishna-and-arjuna_1512x.jpg?v=1664397768 1512w, //gallerist.in/cdn/shop/products/krishna-and-arjuna_1728x.jpg?v=1664397768 1728w, //gallerist.in/cdn/shop/products/krishna-and-arjuna_1950x.jpg?v=1664397768 1950w, //gallerist.in/cdn/shop/products/krishna-and-arjuna_2100x.jpg?v=1664397768 2100w, //gallerist.in/cdn/shop/products/krishna-and-arjuna_2260x.jpg?v=1664397768 2260w, //gallerist.in/cdn/shop/products/krishna-and-arjuna_2450x.jpg?v=1664397768 2450w, //gallerist.in/cdn/shop/products/krishna-and-arjuna_2700x.jpg?v=1664397768 2700w, //gallerist.in/cdn/shop/products/krishna-and-arjuna_3000x.jpg?v=1664397768 3000w, //gallerist.in/cdn/shop/products/krishna-and-arjuna_3350x.jpg?v=1664397768 3350w, //gallerist.in/cdn/shop/products/krishna-and-arjuna_3750x.jpg?v=1664397768 3750w, //gallerist.in/cdn/shop/products/krishna-and-arjuna_4100x.jpg?v=1664397768 4100w"
     },
     {
       "id": 18,
-      "title": "Oil Free Moisturizer 100ml",
-      "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
-      "price": 40,
-      "discountPercentage": 13.1,
+      "title": "Abstract Scenery",
+      "description": "Modern art with conceptual idea",
+      "price": 7031,
       "rating": 4.56,
       "stock": 88,
-      "brand": "Dermive",
-      "category": "skincare",
-      "thumbnail": "https://i.dummyjson.com/data/products/18/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/18/1.jpg",
-        "https://i.dummyjson.com/data/products/18/2.jpg",
-        "https://i.dummyjson.com/data/products/18/3.jpg",
-        "https://i.dummyjson.com/data/products/18/4.jpg",
-        "https://i.dummyjson.com/data/products/18/thumbnail.jpg"
-      ]
+      "category": "Abstract paintings",
+      "thumbnail": "//gallerist.in/cdn/shop/products/abstract-scenery_180x.jpg?v=1664398273 180w, //gallerist.in/cdn/shop/products/abstract-scenery_360x.jpg?v=1664398273 360w, //gallerist.in/cdn/shop/products/abstract-scenery_540x.jpg?v=1664398273 540w, //gallerist.in/cdn/shop/products/abstract-scenery_720x.jpg?v=1664398273 720w, //gallerist.in/cdn/shop/products/abstract-scenery_900x.jpg?v=1664398273 900w, //gallerist.in/cdn/shop/products/abstract-scenery_1080x.jpg?v=1664398273 1080w, //gallerist.in/cdn/shop/products/abstract-scenery_1296x.jpg?v=1664398273 1296w, //gallerist.in/cdn/shop/products/abstract-scenery_1512x.jpg?v=1664398273 1512w, //gallerist.in/cdn/shop/products/abstract-scenery_1728x.jpg?v=1664398273 1728w, //gallerist.in/cdn/shop/products/abstract-scenery_1950x.jpg?v=1664398273 1950w, //gallerist.in/cdn/shop/products/abstract-scenery_2100x.jpg?v=1664398273 2100w, //gallerist.in/cdn/shop/products/abstract-scenery_2260x.jpg?v=1664398273 2260w, //gallerist.in/cdn/shop/products/abstract-scenery_2450x.jpg?v=1664398273 2450w, //gallerist.in/cdn/shop/products/abstract-scenery_2700x.jpg?v=1664398273 2700w, //gallerist.in/cdn/shop/products/abstract-scenery_3000x.jpg?v=1664398273 3000w, //gallerist.in/cdn/shop/products/abstract-scenery_3350x.jpg?v=1664398273 3350w, //gallerist.in/cdn/shop/products/abstract-scenery_3750x.jpg?v=1664398273 3750w, //gallerist.in/cdn/shop/products/abstract-scenery_4100x.jpg?v=1664398273 4100w"
     },
     {
       "id": 19,
-      "title": "Skin Beauty Serum.",
-      "description": "Product name: rorec collagen hyaluronic acid white face serum riceNet weight: 15 m",
-      "price": 46,
-      "discountPercentage": 10.68,
+      "title": "GLASS PAINTING OF RAINBOW SILHOUETTE",
+      "description": "Glass painting of a silhouette with a rainbow. The frame has a backlight to it. The painting can be customized.",
+      "price": 7500,
       "rating": 4.42,
       "stock": 54,
-      "brand": "ROREC White Rice",
-      "category": "skincare",
-      "thumbnail": "https://i.dummyjson.com/data/products/19/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/19/1.jpg",
-        "https://i.dummyjson.com/data/products/19/2.jpg",
-        "https://i.dummyjson.com/data/products/19/3.png",
-        "https://i.dummyjson.com/data/products/19/thumbnail.jpg"
-      ]
+      "category": "Abstract paintings",
+      "thumbnail": "//gallerist.in/cdn/shop/products/glass-painting-of-rainbow-silhouette_180x.jpg?v=1664399033 180w, //gallerist.in/cdn/shop/products/glass-painting-of-rainbow-silhouette_360x.jpg?v=1664399033 360w, //gallerist.in/cdn/shop/products/glass-painting-of-rainbow-silhouette_540x.jpg?v=1664399033 540w, //gallerist.in/cdn/shop/products/glass-painting-of-rainbow-silhouette_720x.jpg?v=1664399033 720w, //gallerist.in/cdn/shop/products/glass-painting-of-rainbow-silhouette_900x.jpg?v=1664399033 900w, //gallerist.in/cdn/shop/products/glass-painting-of-rainbow-silhouette_1080x.jpg?v=1664399033 1080w, //gallerist.in/cdn/shop/products/glass-painting-of-rainbow-silhouette_1296x.jpg?v=1664399033 1296w, //gallerist.in/cdn/shop/products/glass-painting-of-rainbow-silhouette_1512x.jpg?v=1664399033 1512w, //gallerist.in/cdn/shop/products/glass-painting-of-rainbow-silhouette_1728x.jpg?v=1664399033 1728w, //gallerist.in/cdn/shop/products/glass-painting-of-rainbow-silhouette_1950x.jpg?v=1664399033 1950w, //gallerist.in/cdn/shop/products/glass-painting-of-rainbow-silhouette_2100x.jpg?v=1664399033 2100w, //gallerist.in/cdn/shop/products/glass-painting-of-rainbow-silhouette_2260x.jpg?v=1664399033 2260w, //gallerist.in/cdn/shop/products/glass-painting-of-rainbow-silhouette_2450x.jpg?v=1664399033 2450w, //gallerist.in/cdn/shop/products/glass-painting-of-rainbow-silhouette_2700x.jpg?v=1664399033 2700w, //gallerist.in/cdn/shop/products/glass-painting-of-rainbow-silhouette_3000x.jpg?v=1664399033 3000w, //gallerist.in/cdn/shop/products/glass-painting-of-rainbow-silhouette_3350x.jpg?v=1664399033 3350w, //gallerist.in/cdn/shop/products/glass-painting-of-rainbow-silhouette_3750x.jpg?v=1664399033 3750w, //gallerist.in/cdn/shop/products/glass-painting-of-rainbow-silhouette_4100x.jpg?v=1664399033 4100w"
     },
     {
       "id": 20,
-      "title": "Freckle Treatment Cream- 15gm",
-      "description": "Fair & Clear is Pakistan's only pure Freckle cream which helpsfade Freckles, Darkspots and pigments. Mercury level is 0%, so there are no side effects.",
-      "price": 70,
-      "discountPercentage": 16.99,
+      "title": "Dancing Girl 1",
+      "description": "this painting DANCING GIRL1 comes with glassed frame , the size given in discription box is including the size of the frame",
+      "price": 5000,
       "rating": 4.06,
       "stock": 140,
-      "brand": "Fair & Clear",
-      "category": "skincare",
-      "thumbnail": "https://i.dummyjson.com/data/products/20/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/20/1.jpg",
-        "https://i.dummyjson.com/data/products/20/2.jpg",
-        "https://i.dummyjson.com/data/products/20/3.jpg",
-        "https://i.dummyjson.com/data/products/20/4.jpg",
-        "https://i.dummyjson.com/data/products/20/thumbnail.jpg"
-      ]
+      "category": "Abstract paintings",
+      "thumbnail": "//gallerist.in/cdn/shop/products/dancing-girl-1-1_180x.jpg?v=1664399842 180w, //gallerist.in/cdn/shop/products/dancing-girl-1-1_360x.jpg?v=1664399842 360w, //gallerist.in/cdn/shop/products/dancing-girl-1-1_540x.jpg?v=1664399842 540w, //gallerist.in/cdn/shop/products/dancing-girl-1-1_720x.jpg?v=1664399842 720w, //gallerist.in/cdn/shop/products/dancing-girl-1-1_900x.jpg?v=1664399842 900w, //gallerist.in/cdn/shop/products/dancing-girl-1-1_1080x.jpg?v=1664399842 1080w, //gallerist.in/cdn/shop/products/dancing-girl-1-1_1296x.jpg?v=1664399842 1296w, //gallerist.in/cdn/shop/products/dancing-girl-1-1_1512x.jpg?v=1664399842 1512w, //gallerist.in/cdn/shop/products/dancing-girl-1-1_1728x.jpg?v=1664399842 1728w, //gallerist.in/cdn/shop/products/dancing-girl-1-1_1950x.jpg?v=1664399842 1950w, //gallerist.in/cdn/shop/products/dancing-girl-1-1_2100x.jpg?v=1664399842 2100w, //gallerist.in/cdn/shop/products/dancing-girl-1-1_2260x.jpg?v=1664399842 2260w, //gallerist.in/cdn/shop/products/dancing-girl-1-1_2450x.jpg?v=1664399842 2450w, //gallerist.in/cdn/shop/products/dancing-girl-1-1_2700x.jpg?v=1664399842 2700w, //gallerist.in/cdn/shop/products/dancing-girl-1-1_3000x.jpg?v=1664399842 3000w, //gallerist.in/cdn/shop/products/dancing-girl-1-1_3350x.jpg?v=1664399842 3350w, //gallerist.in/cdn/shop/products/dancing-girl-1-1_3750x.jpg?v=1664399842 3750w, //gallerist.in/cdn/shop/products/dancing-girl-1-1_4100x.jpg?v=1664399842 4100w"
     },
     {
       "id": 21,
-      "title": "- Daal Masoor 500 grams",
-      "description": "Fine quality Branded Product Keep in a cool and dry place",
-      "price": 20,
-      "discountPercentage": 4.81,
+      "title": "Om Painting1",
+      "description": "this painting comes with glassed frame , the size given in discription box is including the size of the frame",
+      "price": 20000,
       "rating": 4.44,
       "stock": 133,
-      "brand": "Saaf & Khaas",
-      "category": "groceries",
-      "thumbnail": "https://i.dummyjson.com/data/products/21/thumbnail.png",
-      "images": [
-        "https://i.dummyjson.com/data/products/21/1.png",
-        "https://i.dummyjson.com/data/products/21/2.jpg",
-        "https://i.dummyjson.com/data/products/21/3.jpg"
-      ]
+      "category": "Abstract paintings",
+      "thumbnail": "//gallerist.in/cdn/shop/products/om-painting1_180x.jpg?v=1664399845 180w, //gallerist.in/cdn/shop/products/om-painting1_360x.jpg?v=1664399845 360w, //gallerist.in/cdn/shop/products/om-painting1_540x.jpg?v=1664399845 540w, //gallerist.in/cdn/shop/products/om-painting1_720x.jpg?v=1664399845 720w, //gallerist.in/cdn/shop/products/om-painting1_900x.jpg?v=1664399845 900w, //gallerist.in/cdn/shop/products/om-painting1_1080x.jpg?v=1664399845 1080w, //gallerist.in/cdn/shop/products/om-painting1_1296x.jpg?v=1664399845 1296w, //gallerist.in/cdn/shop/products/om-painting1_1512x.jpg?v=1664399845 1512w, //gallerist.in/cdn/shop/products/om-painting1_1728x.jpg?v=1664399845 1728w, //gallerist.in/cdn/shop/products/om-painting1_1950x.jpg?v=1664399845 1950w, //gallerist.in/cdn/shop/products/om-painting1_2100x.jpg?v=1664399845 2100w, //gallerist.in/cdn/shop/products/om-painting1_2260x.jpg?v=1664399845 2260w, //gallerist.in/cdn/shop/products/om-painting1_2450x.jpg?v=1664399845 2450w, //gallerist.in/cdn/shop/products/om-painting1_2700x.jpg?v=1664399845 2700w, //gallerist.in/cdn/shop/products/om-painting1_3000x.jpg?v=1664399845 3000w, //gallerist.in/cdn/shop/products/om-painting1_3350x.jpg?v=1664399845 3350w, //gallerist.in/cdn/shop/products/om-painting1_3750x.jpg?v=1664399845 3750w, //gallerist.in/cdn/shop/products/om-painting1_4100x.jpg?v=1664399845 4100w"
     },
     {
       "id": 22,
-      "title": "Elbow Macaroni - 400 gm",
-      "description": "Product details of Bake Parlor Big Elbow Macaroni - 400 gm",
-      "price": 14,
-      "discountPercentage": 15.58,
+      "title": "THREE EYED KAALI",
+      "description": "Kaali, with her third eye open",
+      "price": 14250,
       "rating": 4.57,
       "stock": 146,
-      "brand": "Bake Parlor Big",
-      "category": "groceries",
-      "thumbnail": "https://i.dummyjson.com/data/products/22/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/22/1.jpg",
-        "https://i.dummyjson.com/data/products/22/2.jpg",
-        "https://i.dummyjson.com/data/products/22/3.jpg"
-      ]
+      "category": "Abstract paintings",
+      "thumbnail": "//gallerist.in/cdn/shop/products/three-eyed-kaali_180x.jpg?v=1664400162 180w, //gallerist.in/cdn/shop/products/three-eyed-kaali_360x.jpg?v=1664400162 360w, //gallerist.in/cdn/shop/products/three-eyed-kaali_540x.jpg?v=1664400162 540w, //gallerist.in/cdn/shop/products/three-eyed-kaali_720x.jpg?v=1664400162 720w, //gallerist.in/cdn/shop/products/three-eyed-kaali_900x.jpg?v=1664400162 900w, //gallerist.in/cdn/shop/products/three-eyed-kaali_1080x.jpg?v=1664400162 1080w, //gallerist.in/cdn/shop/products/three-eyed-kaali_1296x.jpg?v=1664400162 1296w, //gallerist.in/cdn/shop/products/three-eyed-kaali_1512x.jpg?v=1664400162 1512w, //gallerist.in/cdn/shop/products/three-eyed-kaali_1728x.jpg?v=1664400162 1728w, //gallerist.in/cdn/shop/products/three-eyed-kaali_1950x.jpg?v=1664400162 1950w, //gallerist.in/cdn/shop/products/three-eyed-kaali_2100x.jpg?v=1664400162 2100w, //gallerist.in/cdn/shop/products/three-eyed-kaali_2260x.jpg?v=1664400162 2260w, //gallerist.in/cdn/shop/products/three-eyed-kaali_2450x.jpg?v=1664400162 2450w, //gallerist.in/cdn/shop/products/three-eyed-kaali_2700x.jpg?v=1664400162 2700w, //gallerist.in/cdn/shop/products/three-eyed-kaali_3000x.jpg?v=1664400162 3000w, //gallerist.in/cdn/shop/products/three-eyed-kaali_3350x.jpg?v=1664400162 3350w, //gallerist.in/cdn/shop/products/three-eyed-kaali_3750x.jpg?v=1664400162 3750w, //gallerist.in/cdn/shop/products/three-eyed-kaali_4100x.jpg?v=1664400162 4100w"
     },
     {
       "id": 23,
-      "title": "Orange Essence Food Flavou",
-      "description": "Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item",
-      "price": 14,
-      "discountPercentage": 8.04,
+      "title": "BEDHUND",
+      "description": "Bedhund - figurative painting charcoal on paper A charcoal painting of indian woman. Background shows she surrounded by many unstable things. her yoga pose describe a stability. this painting describe a life of a woman.",
+      "price": 14700,
       "rating": 4.85,
       "stock": 26,
-      "brand": "Baking Food Items",
-      "category": "groceries",
-      "thumbnail": "https://i.dummyjson.com/data/products/23/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/23/1.jpg",
-        "https://i.dummyjson.com/data/products/23/2.jpg",
-        "https://i.dummyjson.com/data/products/23/3.jpg",
-        "https://i.dummyjson.com/data/products/23/4.jpg",
-        "https://i.dummyjson.com/data/products/23/thumbnail.jpg"
-      ]
+      "category": "Modern Drawings",
+      "thumbnail": "//gallerist.in/cdn/shop/products/NVvJqXZZ2a_180x.jpg?v=1677937658 180w, //gallerist.in/cdn/shop/products/NVvJqXZZ2a_360x.jpg?v=1677937658 360w, //gallerist.in/cdn/shop/products/NVvJqXZZ2a_540x.jpg?v=1677937658 540w, //gallerist.in/cdn/shop/products/NVvJqXZZ2a_720x.jpg?v=1677937658 720w, //gallerist.in/cdn/shop/products/NVvJqXZZ2a_900x.jpg?v=1677937658 900w, //gallerist.in/cdn/shop/products/NVvJqXZZ2a_1080x.jpg?v=1677937658 1080w, //gallerist.in/cdn/shop/products/NVvJqXZZ2a_1296x.jpg?v=1677937658 1296w, //gallerist.in/cdn/shop/products/NVvJqXZZ2a_1512x.jpg?v=1677937658 1512w, //gallerist.in/cdn/shop/products/NVvJqXZZ2a_1728x.jpg?v=1677937658 1728w, //gallerist.in/cdn/shop/products/NVvJqXZZ2a_1950x.jpg?v=1677937658 1950w, //gallerist.in/cdn/shop/products/NVvJqXZZ2a_2100x.jpg?v=1677937658 2100w, //gallerist.in/cdn/shop/products/NVvJqXZZ2a_2260x.jpg?v=1677937658 2260w, //gallerist.in/cdn/shop/products/NVvJqXZZ2a_2450x.jpg?v=1677937658 2450w, //gallerist.in/cdn/shop/products/NVvJqXZZ2a_2700x.jpg?v=1677937658 2700w, //gallerist.in/cdn/shop/products/NVvJqXZZ2a_3000x.jpg?v=1677937658 3000w, //gallerist.in/cdn/shop/products/NVvJqXZZ2a_3350x.jpg?v=1677937658 3350w, //gallerist.in/cdn/shop/products/NVvJqXZZ2a_3750x.jpg?v=1677937658 3750w, //gallerist.in/cdn/shop/products/NVvJqXZZ2a_4100x.jpg?v=1677937658 4100w"
     },
     {
       "id": 24,
-      "title": "cereals muesli fruit nuts",
-      "description": "original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji",
-      "price": 46,
-      "discountPercentage": 16.8,
+      "title": "Musical Modern Art Painting",
+      "description": "This hand-painted piece of art is created with great zeal and perfection. We believe in quality all artworks at artoholic are created by renowed artists with their expertise, We use high quality imported canvas and colors. Life of our artworks are more than 50+ years. Totally hand-painted by us with new techniques and formations.",
+      "price": 4600,
       "rating": 4.94,
       "stock": 113,
-      "brand": "fauji",
-      "category": "groceries",
-      "thumbnail": "https://i.dummyjson.com/data/products/24/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/24/1.jpg",
-        "https://i.dummyjson.com/data/products/24/2.jpg",
-        "https://i.dummyjson.com/data/products/24/3.jpg",
-        "https://i.dummyjson.com/data/products/24/4.jpg",
-        "https://i.dummyjson.com/data/products/24/thumbnail.jpg"
-      ]
+      "category": "Modern Drawings",
+      "thumbnail": "//gallerist.in/cdn/shop/products/oBW4ACsqVP_180x.jpg?v=1683566523 180w, //gallerist.in/cdn/shop/products/oBW4ACsqVP_360x.jpg?v=1683566523 360w, //gallerist.in/cdn/shop/products/oBW4ACsqVP_540x.jpg?v=1683566523 540w, //gallerist.in/cdn/shop/products/oBW4ACsqVP_720x.jpg?v=1683566523 720w, //gallerist.in/cdn/shop/products/oBW4ACsqVP_900x.jpg?v=1683566523 900w, //gallerist.in/cdn/shop/products/oBW4ACsqVP_1080x.jpg?v=1683566523 1080w, //gallerist.in/cdn/shop/products/oBW4ACsqVP_1296x.jpg?v=1683566523 1296w, //gallerist.in/cdn/shop/products/oBW4ACsqVP_1512x.jpg?v=1683566523 1512w, //gallerist.in/cdn/shop/products/oBW4ACsqVP_1728x.jpg?v=1683566523 1728w, //gallerist.in/cdn/shop/products/oBW4ACsqVP_1950x.jpg?v=1683566523 1950w, //gallerist.in/cdn/shop/products/oBW4ACsqVP_2100x.jpg?v=1683566523 2100w, //gallerist.in/cdn/shop/products/oBW4ACsqVP_2260x.jpg?v=1683566523 2260w, //gallerist.in/cdn/shop/products/oBW4ACsqVP_2450x.jpg?v=1683566523 2450w, //gallerist.in/cdn/shop/products/oBW4ACsqVP_2700x.jpg?v=1683566523 2700w, //gallerist.in/cdn/shop/products/oBW4ACsqVP_3000x.jpg?v=1683566523 3000w, //gallerist.in/cdn/shop/products/oBW4ACsqVP_3350x.jpg?v=1683566523 3350w, //gallerist.in/cdn/shop/products/oBW4ACsqVP_3750x.jpg?v=1683566523 3750w, //gallerist.in/cdn/shop/products/oBW4ACsqVP_4100x.jpg?v=1683566523 4100w"
     },
     {
       "id": 25,
-      "title": "Gulab Powder 50 Gram",
-      "description": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
-      "price": 70,
-      "discountPercentage": 13.58,
+      "title": "Bloom",
+      "description": "Beautiful peonies with a background of rich teal and gold colors on a round canvas",
+      "price": 6499,
       "rating": 4.87,
       "stock": 47,
-      "brand": "Dry Rose",
-      "category": "groceries",
-      "thumbnail": "https://i.dummyjson.com/data/products/25/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/25/1.png",
-        "https://i.dummyjson.com/data/products/25/2.jpg",
-        "https://i.dummyjson.com/data/products/25/3.png",
-        "https://i.dummyjson.com/data/products/25/4.jpg",
-        "https://i.dummyjson.com/data/products/25/thumbnail.jpg"
-      ]
+      "category": "Modern Drawings",
+      "thumbnail": "//gallerist.in/cdn/shop/products/gPprQqHutq_180x.jpg?v=1669370790 180w, //gallerist.in/cdn/shop/products/gPprQqHutq_360x.jpg?v=1669370790 360w, //gallerist.in/cdn/shop/products/gPprQqHutq_540x.jpg?v=1669370790 540w, //gallerist.in/cdn/shop/products/gPprQqHutq_720x.jpg?v=1669370790 720w, //gallerist.in/cdn/shop/products/gPprQqHutq_900x.jpg?v=1669370790 900w, //gallerist.in/cdn/shop/products/gPprQqHutq_1080x.jpg?v=1669370790 1080w, //gallerist.in/cdn/shop/products/gPprQqHutq_1296x.jpg?v=1669370790 1296w, //gallerist.in/cdn/shop/products/gPprQqHutq_1512x.jpg?v=1669370790 1512w, //gallerist.in/cdn/shop/products/gPprQqHutq_1728x.jpg?v=1669370790 1728w, //gallerist.in/cdn/shop/products/gPprQqHutq_1950x.jpg?v=1669370790 1950w, //gallerist.in/cdn/shop/products/gPprQqHutq_2100x.jpg?v=1669370790 2100w, //gallerist.in/cdn/shop/products/gPprQqHutq_2260x.jpg?v=1669370790 2260w, //gallerist.in/cdn/shop/products/gPprQqHutq_2450x.jpg?v=1669370790 2450w, //gallerist.in/cdn/shop/products/gPprQqHutq_2700x.jpg?v=1669370790 2700w, //gallerist.in/cdn/shop/products/gPprQqHutq_3000x.jpg?v=1669370790 3000w, //gallerist.in/cdn/shop/products/gPprQqHutq_3350x.jpg?v=1669370790 3350w, //gallerist.in/cdn/shop/products/gPprQqHutq_3750x.jpg?v=1669370790 3750w, //gallerist.in/cdn/shop/products/gPprQqHutq_4100x.jpg?v=1669370790 4100w"
     },
     {
       "id": 26,
-      "title": "Plant Hanger For Home",
-      "description": "Boho Decor Plant Hanger For Home Wall Decoration Macrame Wall Hanging Shelf",
-      "price": 41,
-      "discountPercentage": 17.86,
+      "title": "VILLAGE",
+      "description": "Visit my Instagram account soylisahart for more details",
+      "price": 1000,
       "rating": 4.08,
       "stock": 131,
-      "brand": "Boho Decor",
-      "category": "home-decoration",
-      "thumbnail": "https://i.dummyjson.com/data/products/26/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/26/1.jpg",
-        "https://i.dummyjson.com/data/products/26/2.jpg",
-        "https://i.dummyjson.com/data/products/26/3.jpg",
-        "https://i.dummyjson.com/data/products/26/4.jpg",
-        "https://i.dummyjson.com/data/products/26/5.jpg",
-        "https://i.dummyjson.com/data/products/26/thumbnail.jpg"
-      ]
+      "category": "Modern Drawings",
+      "thumbnail": "//gallerist.in/cdn/shop/products/5vZp5y9w1L_180x.jpg?v=1669349371 180w, //gallerist.in/cdn/shop/products/5vZp5y9w1L_360x.jpg?v=1669349371 360w, //gallerist.in/cdn/shop/products/5vZp5y9w1L_540x.jpg?v=1669349371 540w, //gallerist.in/cdn/shop/products/5vZp5y9w1L_720x.jpg?v=1669349371 720w, //gallerist.in/cdn/shop/products/5vZp5y9w1L_900x.jpg?v=1669349371 900w, //gallerist.in/cdn/shop/products/5vZp5y9w1L_1080x.jpg?v=1669349371 1080w, //gallerist.in/cdn/shop/products/5vZp5y9w1L_1296x.jpg?v=1669349371 1296w, //gallerist.in/cdn/shop/products/5vZp5y9w1L_1512x.jpg?v=1669349371 1512w, //gallerist.in/cdn/shop/products/5vZp5y9w1L_1728x.jpg?v=1669349371 1728w, //gallerist.in/cdn/shop/products/5vZp5y9w1L_1950x.jpg?v=1669349371 1950w, //gallerist.in/cdn/shop/products/5vZp5y9w1L_2100x.jpg?v=1669349371 2100w, //gallerist.in/cdn/shop/products/5vZp5y9w1L_2260x.jpg?v=1669349371 2260w, //gallerist.in/cdn/shop/products/5vZp5y9w1L_2450x.jpg?v=1669349371 2450w, //gallerist.in/cdn/shop/products/5vZp5y9w1L_2700x.jpg?v=1669349371 2700w, //gallerist.in/cdn/shop/products/5vZp5y9w1L_3000x.jpg?v=1669349371 3000w, //gallerist.in/cdn/shop/products/5vZp5y9w1L_3350x.jpg?v=1669349371 3350w, //gallerist.in/cdn/shop/products/5vZp5y9w1L_3750x.jpg?v=1669349371 3750w, //gallerist.in/cdn/shop/products/5vZp5y9w1L_4100x.jpg?v=1669349371 4100w"
     },
     {
       "id": 27,
-      "title": "Flying Wooden Bird",
-      "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
-      "price": 51,
-      "discountPercentage": 15.58,
+      "title": "MODERN ART FIGURES",
+      "description": "This hand-painted piece of art is created with great zeal and perfection. We believe in quality all artworks at artoholic are created by renowed artists with their expertise, We use high quality imported canvas and colors. Life of our artworks are more than 50+ years. Totally hand-painted by us with new techniques and formations.",
+      "price": 5100,
       "rating": 4.41,
       "stock": 17,
-      "brand": "Flying Wooden",
-      "category": "home-decoration",
-      "thumbnail": "https://i.dummyjson.com/data/products/27/thumbnail.webp",
-      "images": [
-        "https://i.dummyjson.com/data/products/27/1.jpg",
-        "https://i.dummyjson.com/data/products/27/2.jpg",
-        "https://i.dummyjson.com/data/products/27/3.jpg",
-        "https://i.dummyjson.com/data/products/27/4.jpg",
-        "https://i.dummyjson.com/data/products/27/thumbnail.webp"
-      ]
+      "category": "Modern Drawings",
+      "thumbnail": "//gallerist.in/cdn/shop/products/Rj0lkvml9O_180x.jpg?v=1684003315 180w, //gallerist.in/cdn/shop/products/Rj0lkvml9O_360x.jpg?v=1684003315 360w, //gallerist.in/cdn/shop/products/Rj0lkvml9O_540x.jpg?v=1684003315 540w, //gallerist.in/cdn/shop/products/Rj0lkvml9O_720x.jpg?v=1684003315 720w, //gallerist.in/cdn/shop/products/Rj0lkvml9O_900x.jpg?v=1684003315 900w, //gallerist.in/cdn/shop/products/Rj0lkvml9O_1080x.jpg?v=1684003315 1080w, //gallerist.in/cdn/shop/products/Rj0lkvml9O_1296x.jpg?v=1684003315 1296w, //gallerist.in/cdn/shop/products/Rj0lkvml9O_1512x.jpg?v=1684003315 1512w, //gallerist.in/cdn/shop/products/Rj0lkvml9O_1728x.jpg?v=1684003315 1728w, //gallerist.in/cdn/shop/products/Rj0lkvml9O_1950x.jpg?v=1684003315 1950w, //gallerist.in/cdn/shop/products/Rj0lkvml9O_2100x.jpg?v=1684003315 2100w, //gallerist.in/cdn/shop/products/Rj0lkvml9O_2260x.jpg?v=1684003315 2260w, //gallerist.in/cdn/shop/products/Rj0lkvml9O_2450x.jpg?v=1684003315 2450w, //gallerist.in/cdn/shop/products/Rj0lkvml9O_2700x.jpg?v=1684003315 2700w, //gallerist.in/cdn/shop/products/Rj0lkvml9O_3000x.jpg?v=1684003315 3000w, //gallerist.in/cdn/shop/products/Rj0lkvml9O_3350x.jpg?v=1684003315 3350w, //gallerist.in/cdn/shop/products/Rj0lkvml9O_3750x.jpg?v=1684003315 3750w, //gallerist.in/cdn/shop/products/Rj0lkvml9O_4100x.jpg?v=1684003315 4100w"
     },
     {
       "id": 28,
-      "title": "3D Embellishment Art Lamp",
-      "description": "3D led lamp sticker Wall sticker 3d wall art light on/off button  cell operated (included)",
-      "price": 20,
-      "discountPercentage": 16.49,
+      "title": "NATURE PAINTING",
+      "description": "A tree landscape scenery painting watercolor on paper.",
+      "price": 24000,
       "rating": 4.82,
       "stock": 54,
-      "brand": "LED Lights",
-      "category": "home-decoration",
-      "thumbnail": "https://i.dummyjson.com/data/products/28/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/28/1.jpg",
-        "https://i.dummyjson.com/data/products/28/2.jpg",
-        "https://i.dummyjson.com/data/products/28/3.png",
-        "https://i.dummyjson.com/data/products/28/4.jpg",
-        "https://i.dummyjson.com/data/products/28/thumbnail.jpg"
-      ]
+      "category": "Modern Drawings",
+      "thumbnail": "//gallerist.in/cdn/shop/products/ufucZxMgTH_180x.jpg?v=1668274110 180w, //gallerist.in/cdn/shop/products/ufucZxMgTH_360x.jpg?v=1668274110 360w, //gallerist.in/cdn/shop/products/ufucZxMgTH_540x.jpg?v=1668274110 540w, //gallerist.in/cdn/shop/products/ufucZxMgTH_720x.jpg?v=1668274110 720w, //gallerist.in/cdn/shop/products/ufucZxMgTH_900x.jpg?v=1668274110 900w, //gallerist.in/cdn/shop/products/ufucZxMgTH_1080x.jpg?v=1668274110 1080w, //gallerist.in/cdn/shop/products/ufucZxMgTH_1296x.jpg?v=1668274110 1296w, //gallerist.in/cdn/shop/products/ufucZxMgTH_1512x.jpg?v=1668274110 1512w, //gallerist.in/cdn/shop/products/ufucZxMgTH_1728x.jpg?v=1668274110 1728w, //gallerist.in/cdn/shop/products/ufucZxMgTH_1950x.jpg?v=1668274110 1950w, //gallerist.in/cdn/shop/products/ufucZxMgTH_2100x.jpg?v=1668274110 2100w, //gallerist.in/cdn/shop/products/ufucZxMgTH_2260x.jpg?v=1668274110 2260w, //gallerist.in/cdn/shop/products/ufucZxMgTH_2450x.jpg?v=1668274110 2450w, //gallerist.in/cdn/shop/products/ufucZxMgTH_2700x.jpg?v=1668274110 2700w, //gallerist.in/cdn/shop/products/ufucZxMgTH_3000x.jpg?v=1668274110 3000w, //gallerist.in/cdn/shop/products/ufucZxMgTH_3350x.jpg?v=1668274110 3350w, //gallerist.in/cdn/shop/products/ufucZxMgTH_3750x.jpg?v=1668274110 3750w, //gallerist.in/cdn/shop/products/ufucZxMgTH_4100x.jpg?v=1668274110 4100w"
     },
     {
       "id": 29,
-      "title": "Handcraft Chinese style",
-      "description": "Handcraft Chinese style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate",
-      "price": 60,
-      "discountPercentage": 15.34,
+      "title": "Busy Sealdah Station Painting",
+      "description": "Busy sealdah station painting watercolor painting on paper.",
+      "price": 6850,
       "rating": 4.44,
       "stock": 7,
-      "brand": "luxury palace",
-      "category": "home-decoration",
-      "thumbnail": "https://i.dummyjson.com/data/products/29/thumbnail.webp",
-      "images": [
-        "https://i.dummyjson.com/data/products/29/1.jpg",
-        "https://i.dummyjson.com/data/products/29/2.jpg",
-        "https://i.dummyjson.com/data/products/29/3.webp",
-        "https://i.dummyjson.com/data/products/29/4.webp",
-        "https://i.dummyjson.com/data/products/29/thumbnail.webp"
-      ]
+      "category": "Modern Drawings",
+      "thumbnail": "//gallerist.in/cdn/shop/products/YHRnFVG9Q7_180x.jpg?v=1667124485 180w, //gallerist.in/cdn/shop/products/YHRnFVG9Q7_360x.jpg?v=1667124485 360w, //gallerist.in/cdn/shop/products/YHRnFVG9Q7_540x.jpg?v=1667124485 540w, //gallerist.in/cdn/shop/products/YHRnFVG9Q7_720x.jpg?v=1667124485 720w, //gallerist.in/cdn/shop/products/YHRnFVG9Q7_900x.jpg?v=1667124485 900w, //gallerist.in/cdn/shop/products/YHRnFVG9Q7_1080x.jpg?v=1667124485 1080w, //gallerist.in/cdn/shop/products/YHRnFVG9Q7_1296x.jpg?v=1667124485 1296w, //gallerist.in/cdn/shop/products/YHRnFVG9Q7_1512x.jpg?v=1667124485 1512w, //gallerist.in/cdn/shop/products/YHRnFVG9Q7_1728x.jpg?v=1667124485 1728w, //gallerist.in/cdn/shop/products/YHRnFVG9Q7_1950x.jpg?v=1667124485 1950w, //gallerist.in/cdn/shop/products/YHRnFVG9Q7_2100x.jpg?v=1667124485 2100w, //gallerist.in/cdn/shop/products/YHRnFVG9Q7_2260x.jpg?v=1667124485 2260w, //gallerist.in/cdn/shop/products/YHRnFVG9Q7_2450x.jpg?v=1667124485 2450w, //gallerist.in/cdn/shop/products/YHRnFVG9Q7_2700x.jpg?v=1667124485 2700w, //gallerist.in/cdn/shop/products/YHRnFVG9Q7_3000x.jpg?v=1667124485 3000w, //gallerist.in/cdn/shop/products/YHRnFVG9Q7_3350x.jpg?v=1667124485 3350w, //gallerist.in/cdn/shop/products/YHRnFVG9Q7_3750x.jpg?v=1667124485 3750w, //gallerist.in/cdn/shop/products/YHRnFVG9Q7_4100x.jpg?v=1667124485 4100w"
     },
     {
       "id": 30,
-      "title": "Key Holder",
-      "description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
-      "price": 30,
-      "discountPercentage": 2.92,
+      "title": "Three Mates",
+      "description": "This artwork recall us our childhood memory; similarly an artist painted friendship of these three guys.",
+      "price": 30000,
       "rating": 4.92,
       "stock": 54,
-      "brand": "Golden",
-      "category": "home-decoration",
-      "thumbnail": "https://i.dummyjson.com/data/products/30/thumbnail.jpg",
-      "images": [
-        "https://i.dummyjson.com/data/products/30/1.jpg",
-        "https://i.dummyjson.com/data/products/30/2.jpg",
-        "https://i.dummyjson.com/data/products/30/3.jpg",
-        "https://i.dummyjson.com/data/products/30/thumbnail.jpg"
-      ]
+      "category": "Modern Drawings",
+      "thumbnail": "//gallerist.in/cdn/shop/products/BGMmWkmUoL_180x.jpg?v=1683901556 180w, //gallerist.in/cdn/shop/products/BGMmWkmUoL_360x.jpg?v=1683901556 360w, //gallerist.in/cdn/shop/products/BGMmWkmUoL_540x.jpg?v=1683901556 540w, //gallerist.in/cdn/shop/products/BGMmWkmUoL_720x.jpg?v=1683901556 720w, //gallerist.in/cdn/shop/products/BGMmWkmUoL_900x.jpg?v=1683901556 900w, //gallerist.in/cdn/shop/products/BGMmWkmUoL_1080x.jpg?v=1683901556 1080w, //gallerist.in/cdn/shop/products/BGMmWkmUoL_1296x.jpg?v=1683901556 1296w, //gallerist.in/cdn/shop/products/BGMmWkmUoL_1512x.jpg?v=1683901556 1512w, //gallerist.in/cdn/shop/products/BGMmWkmUoL_1728x.jpg?v=1683901556 1728w, //gallerist.in/cdn/shop/products/BGMmWkmUoL_1950x.jpg?v=1683901556 1950w, //gallerist.in/cdn/shop/products/BGMmWkmUoL_2100x.jpg?v=1683901556 2100w, //gallerist.in/cdn/shop/products/BGMmWkmUoL_2260x.jpg?v=1683901556 2260w, //gallerist.in/cdn/shop/products/BGMmWkmUoL_2450x.jpg?v=1683901556 2450w, //gallerist.in/cdn/shop/products/BGMmWkmUoL_2700x.jpg?v=1683901556 2700w, //gallerist.in/cdn/shop/products/BGMmWkmUoL_3000x.jpg?v=1683901556 3000w, //gallerist.in/cdn/shop/products/BGMmWkmUoL_3350x.jpg?v=1683901556 3350w, //gallerist.in/cdn/shop/products/BGMmWkmUoL_3750x.jpg?v=1683901556 3750w, //gallerist.in/cdn/shop/products/BGMmWkmUoL_4100x.jpg?v=1683901556 4100w"
     }
   ],
   "total": 100,
   "skip": 0,
   "limit": 30
 }
-
